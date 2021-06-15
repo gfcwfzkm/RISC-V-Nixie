@@ -1,6 +1,8 @@
 # RISC-V-Nixie
 Nixie Clock using the GD32VF103 RISC-V microcontroller by GigaDevices and the swiss precise RTC RV-3032-C7 by Micro Crystal AG.
 
+For tubes, IN-8 tubes will be used as they can be mounted into sockets. Since the original, soviet sockets are quite bulky, individual pin sockets will be mounted instead.
+
 ## Status
 The current status of the project, which steps are done or still need to be do. Currently only revision A is in testing, a revision that has some slight imperfections that will be tackled in the next revision. Since parts have been already delivered, revision A will be used to extensively test the PCB, in particular the dimming of the tubes and the high-voltage step-up circuitery.
 Task | Comments
