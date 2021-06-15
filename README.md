@@ -2,7 +2,7 @@
 Nixie Clock using the GD32VF103 RISC-V microcontroller by GigaDevices and the swiss precise RTC RV-3032-C7 by Micro Crystal AG.
 
 ## Status
-The current status of the project, which steps are done or still need to be do
+The current status of the project, which steps are done or still need to be do. Currently only revision A is in testing, a revision that has some slight imperfections that will be tackled in the next revision. Since parts have been already delivered, revision A will be used to extensively test the PCB, in particular the dimming of the tubes and the high-voltage step-up circuitery.
 Task | Comments
 ------------ | -------------
 Initial Schematic | :heavy_check_mark:
