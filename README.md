@@ -11,8 +11,8 @@ Initial Schematic | :heavy_check_mark:
 Initial Layout & BOM | :heavy_check_mark:
 Assembling PCB | :heavy_check_mark:
 Power-ON Test, Voltage levels | :heavy_check_mark:
-Initialising / Testing the MCU | In Progress... :grey_question:
-Writing basic I/O functions | -
+Initialising / Testing the MCU | heavy_check_mark
+Writing basic I/O functions | In Progress... :grey_question:
 Writing the clock programm | -
 
 ## Images
